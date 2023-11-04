@@ -226,8 +226,3 @@
 
 // let result = number>0 ? 'positive' : 'negative'
 // console.log(result);
-let eded = 1;
-while (eded < 8) {
-  console.log('salam');
-  eded++;
-}

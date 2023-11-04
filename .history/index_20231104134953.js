@@ -228,6 +228,6 @@
 // console.log(result);
 let eded = 1;
 while (eded < 8) {
-  console.log('salam');
+  console.log(eded);
   eded++;
 }

@@ -216,7 +216,7 @@
 // ternary
 // 3-lu
 // let result
-// let number=prompt('eded daxil edin')
+let number=prompt('eded daxil edin')
 // if (number>0) {
 //     result='positive'
 // }
@@ -226,8 +226,3 @@
 
 // let result = number>0 ? 'positive' : 'negative'
 // console.log(result);
-let eded = 1;
-while (eded < 8) {
-  console.log('salam');
-  eded++;
-}
