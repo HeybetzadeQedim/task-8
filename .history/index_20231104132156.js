@@ -184,7 +184,7 @@
 //     console.log("Bolunmur!");
 // }
 
-// let userName = prompt("ad daxil edin");
+let userName = prompt("ad daxil edin");
 // if (userName=='Aytac') {
 //     console.log('bizim iscidir');
 // }
@@ -225,4 +225,4 @@ let number=prompt('eded daxil edin')
 // }
 
 let result = number>0 ? 'positive' : 'negative'
-console.log(result);
+console.log();

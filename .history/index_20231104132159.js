@@ -184,7 +184,7 @@
 //     console.log("Bolunmur!");
 // }
 
-// let userName = prompt("ad daxil edin");
+let userName = prompt("ad daxil edin");
 // if (userName=='Aytac') {
 //     console.log('bizim iscidir');
 // }

@@ -184,7 +184,7 @@
 //     console.log("Bolunmur!");
 // }
 
-// let userName = prompt("ad daxil edin");
+let userName = prompt("ad daxil edin");
 // if (userName=='Aytac') {
 //     console.log('bizim iscidir');
 // }
@@ -198,31 +198,18 @@
 //     console.log('bizim isci deyil');
 // }
 
-// switch (userName) {
-//   case "Aytac":
-//     console.log("bizim iscidir");
-//     break;
-//   case "Qedim":
-//     console.log("bizim iscidir");
-//     break;
-//   case "Nurlan":
-//     console.log("bizim iscidir");
-//     break;
-//   default:
-//     console.log("bizim isci deyil");
-//     break;
-// }
+switch (userName) {
+  case "Aytac":
+    console.log("bizim iscidir");
+    break;
+  case "Qedim":
+    console.log("bizim iscidir");
+    break;
+  case "Nurlan":
+    console.log("bizim iscidir");
+    break;
+    default:
+        console.log('bizim isci deyil');
+        break 
+}
 
-// ternary
-// 3-lu
-// let result
-let number=prompt('eded daxil edin')
-// if (number>0) {
-//     result='positive'
-// }
-// else{
-//     result='negative'
-// }
-
-let result = number>0 ? 'positive' : 'negative'
-console.log(result);
